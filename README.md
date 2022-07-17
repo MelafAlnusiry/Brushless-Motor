@@ -1,18 +1,39 @@
 # Brushless-Motor
 
-### Electrical&electronic power task🪛 <br />
+## Electrical&electronic power task🪛 <br />
 
-Here I will explain how Stepeer,Servo,Burshless motor works <br />
-## Hardware Required🔋: <br />
-**Arduino Board**<br />
-**stepper motor**<br />
-**power supply**<br />
-**hook-up wires**<br />
-**breadboard**<br />
+## How Stepper Motor Works:
 
-## Circuit:<br />
+ ### Circuit:<br />
 
 <img src="images/StepperMotor.png" width="500"> <br /><br />
 
-Here to Simulation▶️ <br />
+Simulation▶️ <br />
+
 https://www.tinkercad.com/things/kdKF7DG9RU1 
+
+## How Servo Motor Works:
+
+### Circuit:<br />
+
+<img src="images/ServoMotor.png" width="500"> <br />
+
+Simulation▶️ <br />
+https://www.tinkercad.com/things/70LBO8a0X0V<br />
+
+## How Brushless Motor Works:
+
+### Circuit:<br />
+
+<img src="images/BrushlessMotor.png" width="500"> <br />
+
+Simulation▶️ <br />
+
+https://www.tinkercad.com/things/i5A084jjGUP
+
+
+
+
+
+
+
